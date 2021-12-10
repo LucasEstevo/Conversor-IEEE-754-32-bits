@@ -25,3 +25,7 @@
 <br/>	
 	
 	
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+	
+	
+https://imsouza.github.io/convertendo-ieee32bits-para-decimal-e-vice-versa
